@@ -1,5 +1,7 @@
 # AdventOfCode
 
+[![Build Status](https://travis-ci.org/FallDownTheSystem/AdventOfCode.svg?branch=master)](https://travis-ci.org/FallDownTheSystem/AdventOfCode)
+
 ## What is Advent of Code?
 
 [Advent of Code](http://adventofcode.com) is an online event created by [Eric Wastl](https://twitter.com/ericwastl). Each year, starting on Dec 1st, an advent calendar of small programming puzzles are unlocked once a day at midnight (EST/UTC-5). Developers of all skill sets are encouraged to solve them in any programming language they choose!
@@ -13,6 +15,13 @@
 "The bad news is that we are detecting roughly fifty anomalies throughout time; the device will indicate fixed anomalies with stars. The other bad news is that we only have one device and you're the best person for the job! Good lu--" She taps a button on the device and you suddenly feel like you're falling. To save Christmas, you need to get all fifty stars by December 25th.
 
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
+
+## Days
+
+| Day                                                                                                         | Part One | Part Two |
+| ----------------------------------------------------------------------------------------------------------- | :------: | :------: |
+| ✔️ [Day 1: Chronal Calibration](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day1)         |   ⭐️    |   ⭐️    |
+| ❌ [Day 2: Inventory Management System](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day2) |          |          |
 
 ## Setup
 
