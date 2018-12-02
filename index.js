@@ -1,3 +1,7 @@
-const day1 = require('day1/index.js');
+const day1 = require('./day1/index');
+const day2 = require('./day2/index');
 
-day1();
+(async () => {
+	await day1();
+	await day2();
+})();

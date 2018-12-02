@@ -15,7 +15,7 @@
 	},
 	"scripts": {
 		"test": "jest",
-		"start": "node day1/index.js"
+		"start": "node index.js"
 	},
 	"author": "FallDown",
 	"license": "WTFPL"

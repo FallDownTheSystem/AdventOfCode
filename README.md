@@ -21,7 +21,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | Day                                                                                                         | Part One | Part Two |
 | ----------------------------------------------------------------------------------------------------------- | :------: | :------: |
 | ✔️ [Day 1: Chronal Calibration](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day1)         |   ⭐️    |   ⭐️    |
-| ❌ [Day 2: Inventory Management System](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day2) |          |          |
+| ✔️ [Day 2: Inventory Management System](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day2) |   ⭐️    |   ⭐️    |
 
 ## Setup
 
@@ -43,10 +43,4 @@ To run tests:
 
 ```js
 npm test
-```
-
-To run individual day:
-
-```
-node day*/index.js (eg. 'node day1/index.js')
 ```
