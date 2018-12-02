@@ -10,9 +10,12 @@
 		"perf_hooks": "0.0.1",
 		"webpack-cli": "^3.1.2"
 	},
-	"devDependencies": {},
+	"devDependencies": {
+		"jest": "^23.6.0"
+	},
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "jest",
+		"start": "node day1/index.js"
 	},
 	"author": "FallDown",
 	"license": "WTFPL"
