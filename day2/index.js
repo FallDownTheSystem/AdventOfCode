@@ -13,8 +13,8 @@ const day2 = async () => {
 	console.log('========================= DAY 2 =========================');
 	console.log('Checksum:', checksum);
 	console.log('Common letters:', letters);
-	console.log(`Performance to get Checksum of box IDs: ${t1 - t0} ms`);
-	console.log(`Performance to get common letters in checksums: ${t2 - t1} ms`);
+	console.log(`Performance to get checksum: ${t1 - t0} ms`);
+	console.log(`Performance to get common letters: ${t2 - t1} ms`);
 };
 
 module.exports = day2;
