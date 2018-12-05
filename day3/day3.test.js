@@ -2,7 +2,6 @@
 const overlap = require('./aoc3-1');
 const claimid = require('./aoc3-2');
 
-// Day One - Part One Tests
 test('Day 3 - Part 1: Overlapped area should be 4', () => {
 	let input = `#1 @ 1,3: 4x4
 #2 @ 3,1: 4x4

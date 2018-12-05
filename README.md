@@ -23,7 +23,8 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔️ [Day 1: Chronal Calibration](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day1)         |   ⭐️    |   ⭐️    |
 | ✔️ [Day 2: Inventory Management System](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day2) |   ⭐️    |   ⭐️    |
 | ✔️ [Day 3: No Matter How You Slice It](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day3)  |   ⭐️    |   ⭐️    |
-| ❌ [Day 4: Repose Record](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day4)               |    🕗    |    🕗    |
+| ✔️ [Day 4: Repose Record](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day4)               |   ⭐️    |   ⭐️    |
+| ❌ [Day 4: Alchemical Reduction](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day5)        |    🕔    |    🕔    |
 
 ## Setup
 

@@ -2,7 +2,6 @@
 const getFrequency = require('./aoc1-1');
 const getRepeatedFrequency = require('./aoc1-2');
 
-// Day One - Part One Tests
 test('Day 1 - Part 1: getFrequency should return 3 when input is +1, -2, +3, +1', () => {
 	let input = `+1
 -2
@@ -32,7 +31,6 @@ test('Day 1 - Part 1: getFrequency should return -6 when input is -1, -2, -3', (
 	expect(getFrequency(input)).toBe(-6);
 });
 
-// Day One - Part Two Tests
 test('Day 1 - Part 2: getRepeatedFrequency should return 2 when input is +1, -2, +3, +1', () => {
 	let input = `+1
 -2
