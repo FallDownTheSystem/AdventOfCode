@@ -12,9 +12,9 @@ const day1 = async () => {
 	var t2 = performance.now();
 	console.log('========================= DAY 1 =========================');
 	console.log('Frequency:', f);
+	console.log(`Took: ${t1 - t0} ms`);
 	console.log('First repeated frequency:', rf);
-	console.log(`Performance to get frequency: ${t1 - t0} ms`);
-	console.log(`Performance to get first repeated frequency: ${t2 - t1} ms`);
+	console.log(`Took: ${t2 - t1} ms`);
 };
 
 module.exports = day1;

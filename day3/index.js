@@ -12,9 +12,9 @@ const day3 = async () => {
 	var t2 = performance.now();
 	console.log('========================= DAY 3 =========================');
 	console.log('Overlapped area:', overlappedArea);
+	console.log(`Took: ${t1 - t0} ms`);
 	console.log('Claim id with no overlap', claimId);
-	console.log(`Performance to get overlapped area: ${t1 - t0} ms`);
-	console.log(`Performance to get claim ID with no overlap: ${t2 - t1} ms`);
+	console.log(`Took: ${t2 - t1} ms`);
 };
 
 module.exports = day3;

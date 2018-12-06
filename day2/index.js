@@ -12,9 +12,9 @@ const day2 = async () => {
 	var t2 = performance.now();
 	console.log('========================= DAY 2 =========================');
 	console.log('Checksum:', checksum);
+	console.log(`Took: ${t1 - t0} ms`);
 	console.log('Common letters:', letters);
-	console.log(`Performance to get checksum: ${t1 - t0} ms`);
-	console.log(`Performance to get common letters: ${t2 - t1} ms`);
+	console.log(`Took: ${t2 - t1} ms`);
 };
 
 module.exports = day2;
