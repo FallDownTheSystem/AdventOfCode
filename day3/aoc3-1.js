@@ -1,9 +1,7 @@
-const { performance } = require('perf_hooks');
-
 const overlap = data => {
 	const area = {};
-	var t0 = performance.now();
-	data.trim()
+	data
+		.trim()
 		.split('\n')
 		.forEach(row => {
 			let match = row

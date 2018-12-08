@@ -20,31 +20,31 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 | Day                                                                                                         | Part One | Part Two |
 | ----------------------------------------------------------------------------------------------------------- | :------: | :------: |
-| ✔️ [Day 1: Chronal Calibration](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day1)         |   ⭐️    |   ⭐️    |
-| ✔️ [Day 2: Inventory Management System](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day2) |   ⭐️    |   ⭐️    |
-| ✔️ [Day 3: No Matter How You Slice It](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day3)  |   ⭐️    |   ⭐️    |
-| ✔️ [Day 4: Repose Record](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day4)               |   ⭐️    |   ⭐️    |
-| ✔️ [Day 5: Alchemical Reduction](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day5)        |   ⭐️    |   ⭐️    |
-| ❌ [Day 6: Chronal Coordinates](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day6)         |    🕕    |    🕡    |
-| ❌ [Day 7: --]()                                                                                            |    🕖    |    🕢    |
-| ❌ [Day 8: --]()                                                                                            |    🕗    |    🕣    |
-| ❌ [Day 9: --]()                                                                                            |    🕔    |    🕤    |
-| ❌ [Day 10: --]()                                                                                           |    🕙    |    🕥    |
-| ❌ [Day 11: --]()                                                                                           |    🕚    |    🕦    |
-| ❌ [Day 12: --]()                                                                                           |    🕛    |    🕧    |
-| ❌ [Day 13: --]()                                                                                           |    🕐    |    🕜    |
-| ❌ [Day 14: --]()                                                                                           |    🕑    |    🕝    |
-| ❌ [Day 15: --]()                                                                                           |    🕒    |    🕞    |
-| ❌ [Day 16: --]()                                                                                           |    🕓    |    🕟    |
-| ❌ [Day 17: --]()                                                                                           |    🕔    |    🕠    |
-| ❌ [Day 18: --]()                                                                                           |    🕕    |    🕡    |
-| ❌ [Day 19: --]()                                                                                           |    🕖    |    🕢    |
-| ❌ [Day 20: --]()                                                                                           |    🕗    |    🕣    |
-| ❌ [Day 21: --]()                                                                                           |    🕘    |    🕤    |
-| ❌ [Day 22: --]()                                                                                           |    🕙    |    🕥    |
-| ❌ [Day 23: --]()                                                                                           |    🕚    |    🕦    |
-| ❌ [Day 24: --]()                                                                                           |    🕛    |    🕔    |
-| ❌ [Day 25: --]()                                                                                           |    🕐    |    🕜    |
+| ✔️ [Day 1: Chronal Calibration](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day1)         |    ⭐️    |    ⭐️    |
+| ✔️ [Day 2: Inventory Management System](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day2) |    ⭐️    |    ⭐️    |
+| ✔️ [Day 3: No Matter How You Slice It](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day3)  |    ⭐️    |    ⭐️    |
+| ✔️ [Day 4: Repose Record](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day4)               |    ⭐️    |    ⭐️    |
+| ✔️ [Day 5: Alchemical Reduction](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day5)        |    ⭐️    |    ⭐️    |
+| ✔️ [Day 6: Chronal Coordinates](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day6)         |    ⭐️    |    ⭐️    |
+| ❌ [Day 7: The Sum of Its Parts]()                                                                           |    🕖    |    🕢    |
+| ❌ [Day 8: Memory Maneuver]()                                                                                |    🕗    |    🕣    |
+| ❌ [Day 9: --]()                                                                                             |    🕔    |    🕤    |
+| ❌ [Day 10: --]()                                                                                            |    🕙    |    🕥    |
+| ❌ [Day 11: --]()                                                                                            |    🕚    |    🕦    |
+| ❌ [Day 12: --]()                                                                                            |    🕛    |    🕧    |
+| ❌ [Day 13: --]()                                                                                            |    🕐    |    🕜    |
+| ❌ [Day 14: --]()                                                                                            |    🕑    |    🕝    |
+| ❌ [Day 15: --]()                                                                                            |    🕒    |    🕞    |
+| ❌ [Day 16: --]()                                                                                            |    🕓    |    🕟    |
+| ❌ [Day 17: --]()                                                                                            |    🕔    |    🕠    |
+| ❌ [Day 18: --]()                                                                                            |    🕕    |    🕡    |
+| ❌ [Day 19: --]()                                                                                            |    🕖    |    🕢    |
+| ❌ [Day 20: --]()                                                                                            |    🕗    |    🕣    |
+| ❌ [Day 21: --]()                                                                                            |    🕘    |    🕤    |
+| ❌ [Day 22: --]()                                                                                            |    🕙    |    🕥    |
+| ❌ [Day 23: --]()                                                                                            |    🕚    |    🕦    |
+| ❌ [Day 24: --]()                                                                                            |    🕛    |    🕔    |
+| ❌ [Day 25: --]()                                                                                            |    🕐    |    🕜    |
 
 ## Setup
 
@@ -67,3 +67,4 @@ To run tests:
 ```js
 npm test
 ```
+- [ ] wtf
