@@ -3,7 +3,6 @@ class Point {
 		this.x = x;
 		this.y = y;
 	}
-	// Method
 	distance(x, y) {
 		return Math.abs(this.x - x) + Math.abs(this.y - y);
 	}

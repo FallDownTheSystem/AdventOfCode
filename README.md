@@ -26,9 +26,9 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔️ [Day 4: Repose Record](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day4)               |    ⭐️    |    ⭐️    |
 | ✔️ [Day 5: Alchemical Reduction](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day5)        |    ⭐️    |    ⭐️    |
 | ✔️ [Day 6: Chronal Coordinates](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day6)         |    ⭐️    |    ⭐️    |
-| ❌ [Day 7: The Sum of Its Parts]()                                                                           |    🕖    |    🕢    |
-| ❌ [Day 8: Memory Maneuver]()                                                                                |    🕗    |    🕣    |
-| ❌ [Day 9: --]()                                                                                             |    🕔    |    🕤    |
+| ❌ [Day 7: The Sum of Its Parts](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day7)         |    🕖    |    🕢    |
+| ❌ [Day 8: Memory Maneuver](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day8)              |    🕗    |    🕣    |
+| ❌ [Day 9: --](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/day9)                           |    🕔    |    🕤    |
 | ❌ [Day 10: --]()                                                                                            |    🕙    |    🕥    |
 | ❌ [Day 11: --]()                                                                                            |    🕚    |    🕦    |
 | ❌ [Day 12: --]()                                                                                            |    🕛    |    🕧    |
