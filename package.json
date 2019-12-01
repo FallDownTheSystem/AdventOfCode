@@ -4,14 +4,14 @@
 	"description": "Advent of Code 2018 in Node.js",
 	"main": "index.js",
 	"dependencies": {
-		"assert": "^1.4.1",
-		"axios": "^0.18.0",
-		"lodash": "^4.17.11",
+		"assert": "^2.0.0",
+		"axios": "^0.19.0",
+		"lodash": "^4.17.15",
 		"perf_hooks": "0.0.1",
-		"webpack-cli": "^3.1.2"
+		"webpack-cli": "^3.3.10"
 	},
 	"devDependencies": {
-		"jest": "^23.6.0"
+		"jest": "^24.9.0"
 	},
 	"scripts": {
 		"test": "jest",
