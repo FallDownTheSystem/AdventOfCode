@@ -15,7 +15,7 @@
 	},
 	"scripts": {
 		"test": "jest",
-		"start": "node index.js"
+		"start": "node ./2019/index.js"
 	},
 	"author": "FallDown",
 	"license": "WTFPL"

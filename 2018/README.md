@@ -1,4 +1,4 @@
-## Advent of Code 2018 Story
+# Advent of Code 2018 Story
 
 "We've detected some temporal anomalies," one of Santa's Elves at the Temporal Anomaly Research and Detection Instrument Station tells you. She sounded pretty worried when she called you down here. "At 500-year intervals into the past, someone has been changing Santa's history!"
 
@@ -8,7 +8,7 @@
 
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
-## Days
+# Days
 
 | Day                                                                                                              | Part One | Part Two |
 | ---------------------------------------------------------------------------------------------------------------- | :------: | :------: |
