@@ -1,7 +1,7 @@
 {
 	"name": "adventofcode",
 	"version": "1.0.0",
-	"description": "Advent of Code 2018 in Node.js",
+	"description": "Advent of Code in Node.js",
 	"main": "index.js",
 	"dependencies": {
 		"assert": "^2.0.0",

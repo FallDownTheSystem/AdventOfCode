@@ -16,6 +16,7 @@ npm install
 ```
 
 To run code for all days (includes performance tests):
+replace package.jon start script with the year you want: `"start": "node ./2019/index.js"`
 
 ```js
 npm start
@@ -27,4 +28,8 @@ To run tests:
 npm test
 ```
 
--   [ ] wtf
+To run specific test file:
+
+```js
+npm run test -- ./2019/day1/day1.test.js
+```
