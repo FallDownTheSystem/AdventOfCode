@@ -1,5 +1,5 @@
 const { performance } = require('perf_hooks');
-const fetcher = require('../fetcher');
+const fetcher = require('../../fetcher');
 const boxChecksum = require('./aoc2-1');
 const commonLetters = require('./aoc2-2');
 

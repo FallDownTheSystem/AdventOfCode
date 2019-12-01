@@ -1,5 +1,5 @@
 const { performance } = require('perf_hooks');
-const fetcher = require('../fetcher');
+const fetcher = require('../../fetcher');
 const SleepyGuard = require('./aoc4-1');
 const FrequentGuard = require('./aoc4-2');
 

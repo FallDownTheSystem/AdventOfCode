@@ -1,5 +1,5 @@
 const { performance } = require('perf_hooks');
-const fetcher = require('../fetcher');
+const fetcher = require('../../fetcher');
 const getFrequency = require('./aoc1-1');
 const getRepeatedFrequency = require('./aoc1-2');
 

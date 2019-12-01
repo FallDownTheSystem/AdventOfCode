@@ -1,5 +1,5 @@
 const { performance } = require('perf_hooks');
-const fetcher = require('../fetcher');
+const fetcher = require('../../fetcher');
 const f1 = require('./aoc6-1');
 const f2 = require('./aoc6-2');
 
@@ -13,7 +13,10 @@ const day6 = async () => {
 	console.log('========================= DAY 6 =========================');
 	console.log('Largest area:', r1);
 	console.log(`took: ${t1 - t0} ms`);
-	console.log('Region containing locations which have a total distance to all given coordinates of less than 10 000:', r2);
+	console.log(
+		'Region containing locations which have a total distance to all given coordinates of less than 10 000:',
+		r2
+	);
 	console.log(`took: ${t2 - t1} ms`);
 };
 

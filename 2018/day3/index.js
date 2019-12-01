@@ -1,5 +1,5 @@
 const { performance } = require('perf_hooks');
-const fetcher = require('../fetcher');
+const fetcher = require('../../fetcher');
 const overlap = require('./aoc3-1');
 const noOverlap = require('./aoc3-2');
 

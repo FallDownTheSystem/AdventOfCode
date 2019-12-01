@@ -1,5 +1,5 @@
 const { performance } = require('perf_hooks');
-const fetcher = require('../fetcher');
+const fetcher = require('../../fetcher');
 const polymers = require('./aoc5-1');
 const cleanpolymer = require('./aoc5-2');
 
