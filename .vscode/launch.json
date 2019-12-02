@@ -7,6 +7,13 @@
 		{
 			"type": "node",
 			"request": "launch",
+			"name": "Jest tests",
+			"program": "${workspaceRoot}\\node_modules\\jest\\bin\\jest.js",
+			"args": ["./2019/day2/jest.test.js", "-i", "--codeCoverage=false"]
+		},
+		{
+			"type": "node",
+			"request": "launch",
 			"name": "Launch Program",
 			"program": "${workspaceFolder}\\2019\\index.js"
 		}
