@@ -5,9 +5,11 @@
 -   [2018](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/2018)
 -   [2019](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/2019)
 
-## Setup
+# Node.js
 
-Requires Node.js
+2018 and first three days of 2019 are done in Node.js
+
+## Setup
 
 To setup the project:
 
@@ -32,4 +34,24 @@ To run specific test file:
 
 ```js
 npm run test -- ./2019/day1/day1.test.js
+```
+
+# Python
+
+To run all days:
+
+```
+TBA
+```
+
+To run solutions for a single day use:
+
+```
+python 2019\day4\day4.py < 2019\day4\input.txt
+```
+
+To run unit tests:
+
+```
+python -m unittest discover 2019\day4\
 ```

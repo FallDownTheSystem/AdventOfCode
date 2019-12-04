@@ -11,7 +11,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔️ [Day 1: The Tyranny of the Rocket Equation](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/2019/day1) |   ⭐️    |   ⭐️    |
 | ✔️ [Day 2: 1202 Program Alarm](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/2019/day2)                 |   ⭐️    |   ⭐️    |
 | ✔️ [Day 3: Crossed Wires](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/2019/day3)                      |   ⭐️    |   ⭐️    |
-| ❌ [Day 4: --]()                                                                                                        |    🕖    |    🕖    |
+| ✔️ [Day 4: Secure Container](https://github.com/FallDownTheSystem/AdventOfCode/tree/master/2019/day4)                   |   ⭐️    |   ⭐️    |
 | ❌ [Day 5: --]()                                                                                                        |    🕖    |    🕖    |
 | ❌ [Day 6: --]()                                                                                                        |    🕖    |    🕖    |
 | ❌ [Day 7: --]()                                                                                                        |    🕖    |    🕢    |
