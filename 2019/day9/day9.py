@@ -152,11 +152,12 @@ def BOOST(memory, mode):
     return cpu.output_device
 
 
-print("==================== Part 1 ====================")
-puzzle_input = open("2019/day9/input.txt", "r").read().rstrip()
-memory = [int(x) for x in puzzle_input.split(",")]
-memory.extend([0] * 50000000)
-print(BOOST(memory[:], [1]))
+if __name__ == '__main__':
+    print("==================== Part 1 ====================")
+    puzzle_input = open("2019/day9/input.txt", "r").read().rstrip()
+    memory = [int(x) for x in puzzle_input.split(",")]
+    memory.extend([0] * 50000000)
+    print(BOOST(memory[:], [1]))
 
-print("==================== Part 2 ====================")
-print(BOOST(memory[:], [2]))
+    print("==================== Part 2 ====================")
+    print(BOOST(memory[:], [2]))

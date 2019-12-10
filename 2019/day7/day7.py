@@ -160,12 +160,6 @@ def max_thruster_signal(memory):
     return max(outputs)
 
 
-print("==================== Part 1 ====================")
-puzzle_input = open("2019/day7/input.txt", "r").read().rstrip()
-memory = [int(x) for x in puzzle_input.split(",")]
-print("Max thruster signal:", max_thruster_signal(memory))
-
-
 def feedback_loop(memory):
     phaser_sequences = list(itertools.permutations([5, 6, 7, 8, 9]))
     thruster_outputs = []
@@ -191,5 +185,11 @@ def feedback_loop(memory):
     return max(thruster_outputs)
 
 
-print("==================== Part 2 ====================")
-print("Max thruster signal from feedback loop:", feedback_loop(memory))
+if __name__ == '__main__':
+    print("==================== Part 1 ====================")
+    puzzle_input = open("2019/day7/input.txt", "r").read().rstrip()
+    memory = [int(x) for x in puzzle_input.split(",")]
+    print("Max thruster signal:", max_thruster_signal(memory))
+
+    print("==================== Part 2 ====================")
+    print("Max thruster signal from feedback loop:", feedback_loop(memory))

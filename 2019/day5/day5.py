@@ -137,15 +137,16 @@ def compute(int_code: str, input_val: int):
     return cpu
 
 
-print("==================== Part 1 ====================")
-puzzle_input = open("2019/day5/input.txt", "r").read().rstrip()
-cpu = compute(puzzle_input, 1)
-# print(cpu.viewMemory())
-print("Input: ", cpu.input_device)
-print("Output: ", cpu.output_device)
+if __name__ == '__main__':
+    print("==================== Part 1 ====================")
+    puzzle_input = open("2019/day5/input.txt", "r").read().rstrip()
+    cpu = compute(puzzle_input, 1)
+    # print(cpu.viewMemory())
+    print("Input: ", cpu.input_device)
+    print("Output: ", cpu.output_device)
 
-print("==================== Part 2 ====================")
-cpu = compute(puzzle_input, 5)
-# print(cpu.viewMemory())
-print("Input: ", cpu.input_device)
-print("Output: ", cpu.output_device)
+    print("==================== Part 2 ====================")
+    cpu = compute(puzzle_input, 5)
+    # print(cpu.viewMemory())
+    print("Input: ", cpu.input_device)
+    print("Output: ", cpu.output_device)

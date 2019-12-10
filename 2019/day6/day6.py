@@ -7,16 +7,6 @@ def count_orbits(tree, node, depth, orbits):
     return orbits
 
 
-print("==================== Part 1 ====================")
-puzzle_input = open("2019/day6/input.txt", "r").read().rstrip()
-edges = [x.split(")") for x in puzzle_input.split("\n")]
-tree = {}
-for parent, child in edges:
-    tree.setdefault(parent, []).append(child)
-orbits = count_orbits(tree, tree["COM"], 0, 0)
-print(orbits)
-
-
 def get_ancestors(tree, node, ancestors):
     for parent in node:
         ancestors.append(parent)
@@ -34,10 +24,20 @@ def count_links(tree, start, destination):
             return links
 
 
-print("==================== Part 2 ====================")
-reverse_tree = {}
-for parent, child in edges:
-    reverse_tree.setdefault(child, []).append(parent)
+if __name__ == '__main__':
+    print("==================== Part 1 ====================")
+    puzzle_input = open("2019/day6/input.txt", "r").read().rstrip()
+    edges = [x.split(")") for x in puzzle_input.split("\n")]
+    tree = {}
+    for parent, child in edges:
+        tree.setdefault(parent, []).append(child)
+    orbits = count_orbits(tree, tree["COM"], 0, 0)
+    print(orbits)
 
-orbital_transfers = count_links(reverse_tree, "YOU", "SAN")
-print(orbital_transfers)
+    print("==================== Part 2 ====================")
+    reverse_tree = {}
+    for parent, child in edges:
+        reverse_tree.setdefault(child, []).append(parent)
+
+    orbital_transfers = count_links(reverse_tree, "YOU", "SAN")
+    print(orbital_transfers)
