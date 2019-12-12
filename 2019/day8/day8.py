@@ -13,13 +13,13 @@ if __name__ == '__main__':
     min_zeroes = 999
     min_index = 0
     for index, layer in enumerate(layers):
-        zeroes = len(list(filter(lambda x: x == 0, layer)))
+        zeroes = len(list(filter(lambda x: x == '0', layer)))
         if zeroes < min_zeroes:
             min_zeroes = zeroes
             min_index = index
 
-    ones = len(list(filter(lambda x: x == 1, layers[min_index])))
-    twos = len(list(filter(lambda x: x == 2, layers[min_index])))
+    ones = len(list(filter(lambda x: x == '1', layers[min_index])))
+    twos = len(list(filter(lambda x: x == '2', layers[min_index])))
 
     print("Ones * Twos:", ones * twos)
 
