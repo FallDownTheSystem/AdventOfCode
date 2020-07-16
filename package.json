@@ -6,7 +6,7 @@
 	"dependencies": {
 		"assert": "^2.0.0",
 		"axios": "^0.19.0",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.19",
 		"perf_hooks": "0.0.1",
 		"webpack-cli": "^3.3.10"
 	},
